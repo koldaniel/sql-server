@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{41EA5019-3D7F-493F-92F3-77E99F85ED77}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SSQueries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SSQueries\Program.cs">
+    <Files>
+      <File FileName="SSQueries\Program.cs" Line="113" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
