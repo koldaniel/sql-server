@@ -1,0 +1,2 @@
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSConnect\SSConnect\bin\Release\SSConnect.exe
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSConnect\SSConnect\obj\x86\Release\SSConnect.exe
