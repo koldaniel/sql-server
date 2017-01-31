@@ -1,2 +1,2 @@
 #Xamarin Studio
-The C# application was developed using Xamarin Studio Community.
+The C# applications was developed using Xamarin Studio Community.
