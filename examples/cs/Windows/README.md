@@ -1,2 +1,6 @@
 #Microsoft Windows
-The C# application is running on Microsoft Windows 10 Home Edition operating system.
+The C# applications require the following:
+* SQL Server 2016 SP1 Express Edition
+* Windows 10 Home Edition
+* .NET Framework
+* Entity Framework Object Relational Mapping (ORM)
