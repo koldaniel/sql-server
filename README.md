@@ -1,5 +1,5 @@
-#SQL Server Tutorials Repository
-This GitHub repository contains tutorials for Microsoft SQL Server with the following:
+#SQL Server Demos Repository
+This GitHub repository contains examples of application using the following tools:
 
 <b>Operating System</b>
 * Microsoft Windows
