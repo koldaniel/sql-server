@@ -1,2 +1,2 @@
 #Visual Studio Code
-The C# application was developed using Visual Studio Code.
+The C# applications was developed using Visual Studio Code.
