@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{6908058E-C78F-4E61-9E73-4FB6E05CB928}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SSColumnstore\Program.cs">
+    <Files>
+      <File FileName="SSColumnstore\Program.cs" Line="136" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SSColumnstore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

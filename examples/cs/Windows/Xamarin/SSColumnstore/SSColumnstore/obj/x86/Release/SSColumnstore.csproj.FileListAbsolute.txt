@@ -1,0 +1,2 @@
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSColumnstore\SSColumnstore\bin\Release\SSColumnstore.exe
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSColumnstore\SSColumnstore\obj\x86\Release\SSColumnstore.exe
