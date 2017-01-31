@@ -1,0 +1,7 @@
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\bin\Release\SSEntityFramework.exe.config
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\bin\Release\SSEntityFramework.exe
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\bin\Release\EntityFramework.dll
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\bin\Release\EntityFramework.SqlServer.dll
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\bin\Release\EntityFramework.xml
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\bin\Release\EntityFramework.SqlServer.xml
+C:\dev\SQLserver\Examples\cs\Windows\Xamarin\SSEntityFramework\SSEntityFramework\obj\x86\Release\SSEntityFramework.exe

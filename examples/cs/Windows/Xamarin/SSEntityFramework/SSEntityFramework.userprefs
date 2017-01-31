@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D1AF848F-1784-49EA-8CBB-0006E51B89AA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SSEntityFramework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SSEntityFramework\Program.cs">
+    <Files>
+      <File FileName="SSEntityFramework\Program.cs" Line="11" Column="28" />
+      <File FileName="SSEntityFramework\User.cs" Line="25" Column="1" />
+      <File FileName="SSEntityFramework\Task.cs" Line="20" Column="1" />
+      <File FileName="SSEntityFramework\EFContext.cs" Line="10" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
