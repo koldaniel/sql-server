@@ -5,8 +5,22 @@ This GitHub repository contains tutorials for Microsoft SQL Server with the foll
 * Microsoft Windows
 * Ubuntu
 
+<b>Microsoft SQl Server</b>
+* Microsoft Windows
+  * SQL Server 2016 Express Edition
+    * Download
+      * :package: https://www.microsoft.com/en-ca/sql-server/sql-server-downloads
+* Ubuntu
+  * SQL Server vNext
+    * Installation
+      * :package: https://docs.microsoft.com/en-gb/sql/linux/sql-server-linux-setup-ubuntu
+
 <b>Integrated Development Environments (IDEs)</b>
-* Xamarin Studio
+* Xamarin Studio / MonoDevelop
+  * Microsoft Windows
+    * Xamarin Studio
+  * Ubuntu
+    * MonoDevelop
 * Visual Studio Code
 * Visual Studio
 
