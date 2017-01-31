@@ -1,4 +1,4 @@
-#SQL Server Demos Repository
+#SQL Server Examples Repository
 This GitHub repository contains examples of application using the following tools:
 
 <b>Operating System</b>
